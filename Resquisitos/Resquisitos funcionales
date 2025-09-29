@@ -1,0 +1,15 @@
+
+•	Ingresar horarios del tratamiento: Permitir al usuario agregar, editar o eliminar horarios programables por el usuario de los momentos que se le indican en su tratamiento.
+
+•	Ingresar datos de los medicamentos: Ingresar el nombre y el tipo de medicamento cuando se crean los horarios del tratamiento designado.
+
+•	Uso de alarmas por horarios programados: Emitir una notificación en forma de alarma cuando se alcance la hora designada por el usuario.
+
+•	Confirmación de ingesta de medicamentos: Cuando la alarma esté activa se despliega una ventana para confirmar que el medicamento se ha tomado.
+
+•	Historial de cumplimiento de medicación: Se genera al terminar el tratamiento un historial del cumplimiento del tratamiento.
+•	Monitoreo por persona externa: Un usuario puede agregar a otro usuario para el monitoreo del cumplimiento de su tratamiento pudiendo ajustar los horarios y mandar recordatorios.
+
+•	Aviso de olvido al monitoreo externo: Si el monitoreo externo está activo y el usuario en tratamiento olvida su medicación, se le enviará un aviso por la aplicación al usuario externo.
+
+•	Conexión con el foro: El usuario podrá conectarse a un foro para poder interactuar con otros usuarios con tratamientos similares o según las preferencias del usuario.
