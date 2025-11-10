@@ -3,7 +3,7 @@ Usuario: Persona bajo medicación a mediano o largo plazo
 Son los usuarios primarios ya que son los usuarios que harían un uso constante de la aplicación ya que sus periodos de medicación son de varios meses, años o de por vida.
 
 Usuarios secundarios
-Usuario: Toda aquella persona que se enfermó (Tos, gripe, etc.) y necesita una medicación a coto plazo.
+Usuario: Toda aquella persona que se enfermó (Tos, gripe, etc.) y necesita una medicación a corto plazo.
 Son considerados nuestros usuarios secundarios ya que son personas las cuales usarían la aplicación un periodo de tiempo corto lo cual al pasar el tiempo establecido ocasionaría que la dejen de usar al ya no necesitarla.
 
 Usuarios potenciales
