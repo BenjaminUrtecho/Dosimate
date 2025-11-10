@@ -1,1 +1,3 @@
+Link del video de la presentación:
 
+https://alumnosuady-my.sharepoint.com/:v:/g/personal/a22201187_alumnos_uady_mx/ES9Or_tnlblNqCbFA2LGo7sByLnlQK36x8f0fVMRqv7oag?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vXx7UL
